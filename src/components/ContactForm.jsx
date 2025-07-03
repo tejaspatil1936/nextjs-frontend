@@ -43,7 +43,7 @@ export default function ContactForm() {
   };
 
   return (
-    <section className="bg-[#f6f7f8] py-16 px-4">
+<section id="contact" className="bg-[#f6f7f8] py-16 px-4">
       <div className="max-w-2xl mx-auto border rounded-lg shadow-lg p-8 border-green-900">
         <h2 className="text-4xl font-bold text-center text-green-900 mb-4">Get In Touch</h2>
         <p className="text-center text-lg text-gray-800 mb-8">
