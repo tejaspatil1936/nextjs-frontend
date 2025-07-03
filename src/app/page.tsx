@@ -1,5 +1,5 @@
 // app/page.tsx
-import Navigation from "@/components/Navigation";
+// import Navigation from "@/components/Navigation";
 import Hero from "@/components/Hero";
 import Stats from "@/components/Stats";
 import Services from "@/components/Services";
